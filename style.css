@@ -588,10 +588,6 @@ footer{
 }
 
 @media(max-width:1050px) {
-    *{
-        overflow-x: hidden;
-    }
-    
     #about-us{
         grid-template-columns: 1fr;
     }
