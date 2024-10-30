@@ -603,10 +603,6 @@ footer{
 }
 
 @media(max-width:724px) {
-    *{
-        overflow-x: hidden;
-    }
-    
     .navigation{
         justify-content: space-between;
         padding: 20px;
