@@ -323,11 +323,6 @@ header{
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1px;
-    transition: all ease 0.3s;
-}
-
-.about-text a:hover{
-    font-size: 3.5rem;
 }
 
 #host,
