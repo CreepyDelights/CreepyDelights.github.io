@@ -48,8 +48,8 @@ git clone https://github.com/CreepyDelights/creepydelights.github.io.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Telegram](https://t.me/TheHamkerGuy).
 
 ### License
 
-This project is **free to use** and does not contains any license.
+This project is licensed under the [MIT LICNSE](https://github.com/CreepyDelights/CreepyDelights.github.io/blob/beb7b5b8bed88c289f0e404c84a429f8ef74a357/LICENSE). See the LICENSE file for more.
