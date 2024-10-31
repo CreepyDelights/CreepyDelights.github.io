@@ -3,7 +3,6 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/CreepyDelights/CreepyDelights.github.io)
   ![GitHub stars](https://img.shields.io/github/stars/CreepyDelights/CreepyDelights.github.io?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/CreepyDelights/CreepyDelights.github.io?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
 
   <br />
   <br />
@@ -20,9 +19,9 @@
 
 ### Demo Screeshots
 
-![Halloween Desktop Demo](https://vault.pictures/p/ab1f5ebaf6cb48278e906825ea9bf9ef)
+![Halloween Desktop Demo](desktop.png)
 
-![Halloween Mobile Demo](https://vault.pictures/p/f712c1874fcc429cb194cd3deb18f8d8)
+![Halloween Mobile Demo](mobile.png)
 
 ### Prerequisites
 
@@ -52,4 +51,4 @@ If you want to contact with me you can reach me at [Telegram](https://t.me/TheHa
 
 ### License
 
-This project is licensed under the [MIT LICNSE](https://github.com/CreepyDelights/CreepyDelights.github.io/blob/beb7b5b8bed88c289f0e404c84a429f8ef74a357/LICENSE). See the LICENSE file for more.
+This project is licensed under the [MIT LICENSE](https://github.com/CreepyDelights/CreepyDelights.github.io/blob/beb7b5b8bed88c289f0e404c84a429f8ef74a357/LICENSE). See the LICENSE file for more.
