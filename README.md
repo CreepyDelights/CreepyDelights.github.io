@@ -17,7 +17,7 @@
 
 <br />
 
-### Demo Screeshots
+### Demo Screenshots
 
 ![Halloween Desktop Demo](desktop.png)
 
