@@ -49,6 +49,6 @@ git clone https://github.com/CreepyDelights/creepydelights.github.io.git
 
 _If you want to contact with me you can reach me at [**Telegram**](https://t.me/TheHamkerGuy)._
 
-### License
+### License 💜
 
 _This project is licensed under the [**MIT LICENSE**](https://github.com/CreepyDelights/CreepyDelights.github.io/blob/beb7b5b8bed88c289f0e404c84a429f8ef74a357/LICENSE). See the LICENSE file for more._
