@@ -9,46 +9,46 @@
 
   <h2 align="center">Creepy Delights 🎃</h2>
 
-  Creepy Delights is a fully responsive website, <br />Responsive for all devices, build using HTML, and CSS.
+  _👻 Creepy Delights is a fully responsive website. <br/>Responsive for all devices, build using HTML, and CSS ✨._
 
-  <a href="https://creepydelights.github.io"><strong>➥ Live Demo</strong></a>
+  <a href="https://creepydelights.github.io"><strong>➥ Live Demo 🖤</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screenshots
+### Demo Screenshots 🌟
 
 ![Halloween Desktop Demo](desktop.png)
 
 ![Halloween Mobile Demo](mobile.png)
 
-### Prerequisites
+### Prerequisites 🥀
 
-Before you begin, ensure you have met the following requirements:
+_Before you begin, ensure you have met the following requirements:_
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* _[**Git**](https://git-scm.com/downloads "Download Git") must be installed on your operating system._
 
 ### Run Locally
 
-To run **Creepy Delights** locally, run this command on your git bash:
+_To run **Creepy Delights** locally, run this command on your git bash:_
 
-Linux and macOS:
+_**Linux and macOS:**_
 
 ```bash
 sudo git clone https://github.com/CreepyDelights/creepydelights.github.io.git
 ```
 
-Windows:
+_**Windows:**_
 
 ```bash
 git clone https://github.com/CreepyDelights/creepydelights.github.io.git
 ```
 
-### Contact
+### Contact 📞
 
-If you want to contact with me you can reach me at [Telegram](https://t.me/TheHamkerGuy).
+_If you want to contact with me you can reach me at [**Telegram**](https://t.me/TheHamkerGuy)._
 
 ### License
 
-This project is licensed under the [MIT LICENSE](https://github.com/CreepyDelights/CreepyDelights.github.io/blob/beb7b5b8bed88c289f0e404c84a429f8ef74a357/LICENSE). See the LICENSE file for more.
+_This project is licensed under the [**MIT LICENSE**](https://github.com/CreepyDelights/CreepyDelights.github.io/blob/beb7b5b8bed88c289f0e404c84a429f8ef74a357/LICENSE). See the LICENSE file for more._
